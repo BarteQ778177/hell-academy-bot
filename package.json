@@ -1,0 +1,18 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@prisma/client": "^5.4.1",
+    "axios": "^1.5.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "module-alias": "^2.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.46.0",
+    "prisma": "^5.4.1"
+  },
+  "_moduleAliases": {
+    "@classes": "./classes",
+    "@commands": "./commands"
+  }
+}

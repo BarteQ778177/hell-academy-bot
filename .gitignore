@@ -1,0 +1,5 @@
+.env
+node_modules
+server/model/
+package-lock.json
+prisma
